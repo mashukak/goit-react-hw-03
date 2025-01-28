@@ -1,49 +1,6 @@
 .list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    list-style: none;
-    padding: 0;
-    margin-top: 20px;
-    justify-content: center;
-  }
-  
-  .item {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    background-color: #f9f9f9;
-    width: 200px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-  
-  .icon {
-    font-size: 20px;
-  }
-  
-  .name {
-    font-weight: bold;
-  }
-  
-  .number {
-    font-size: 14px;
-    color: #666;
-  }
-  
-  .button {
-    margin-left: auto;
-    background-color: #e04b4b;
-    color: #ffffff;
-    border: none;
-    border-radius: 5px;
-    padding: 5px 10px;
-    cursor: pointer;
-  }
-  
-  .button:hover {
-    background-color: #d33d3d;
-  }
-  
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
